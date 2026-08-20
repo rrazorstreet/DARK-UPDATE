@@ -1,4 +1,1 @@
 27.5
-"Mage sekmesine parti tp eklendi.",
-"Arayüz güncellemeleri yapıldı.",
-"2k ekranlarda koordinat sorunu giderildi.",
