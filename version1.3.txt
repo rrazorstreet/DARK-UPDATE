@@ -1,5 +1,1 @@
 27.8
-Klavye ID sorunu çözüldü windows klavye ıd değiştirse bile çalışmaya devam edecek
-Mage parti tp eklendi
-Priest Parti heal eklendi
-Arayüz ve Performans güncellemeleri yapıldı
