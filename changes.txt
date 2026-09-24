@@ -1,3 +1,4 @@
-1. HP/MP bar okuma sistemi düzeltildi.
+1. HP/MP bar okuma sistemi hassasiyet artırıldı.
 2. Tekli skill tetikleme hızı artırıldı.
-3. Küçük hata ve performans düzeltmeleri yapıldı.
+3. Bazı hatalar ve çalışmayan kod düzeltmeleri yapıldı.
+4. Performans geliştirmeleri yapıldı .
