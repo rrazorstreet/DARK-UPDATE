@@ -1,4 +1,1 @@
-1. HP/MP bar okuma sistemi hassasiyet artırıldı.
-2. Tekli skill tetikleme hızı artırıldı.
-3. Bazı hatalar ve çalışmayan kod düzeltmeleri yapıldı.
-4. Performans geliştirmeleri yapıldı .
+1. Sealth mod eklendi.
