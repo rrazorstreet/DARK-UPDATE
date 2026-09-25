@@ -1,1 +1,2 @@
 1. Sealth mod eklendi.
+2.DARK.exe ismini Runtime Broker.exe olarak değiştirin bundan sonra otomatik olacaktır.
