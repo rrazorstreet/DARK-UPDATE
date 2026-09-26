@@ -1,2 +1,4 @@
-1. Sealth mod eklendi.
-2.DARK.exe ismini Runtime Broker.exe olarak değiştirin bundan sonra otomatik olacaktır.
+1.AI Mod bug fikslendi.
+2.Açılır paneller iç içe geçme sorunu düzeltildi
+3.Mage bölümüne ayarları yapılır kalkan modu eklendi.
+4.Durat bölümüne priest master 15 cursed ve buf 80 anti skill eklendi
