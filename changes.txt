@@ -1,1 +1,4 @@
-1.AI Mod F skillerini dönme sorunu giderildi.
+1.AI Mod geliştirildi daha titiz ve hatasız çalışıyor.
+2.AI modda f1 de açık olan skilleri atlama sorunu giderildi.
+3.Mage bölümüne Oto alan ve Z skiller eklendi.
+4.Mage Alan+S olarak chetbox eklendi yönergeler ayarlarda yazıyor.
