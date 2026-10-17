@@ -1,1 +1,5 @@
-1.W11 için key hatası giderildi.
+1.Okcu COMBO bölümü modifiye edilebilir olarak komple yenilendi.
+2.Okcu COMBO modu mekaniği 63 66 70 60 olarak ayarlandı 72 aç derseniz aralarında 72 atar.
+3.Okcu COMBO aktif ettiğinizde moseu ile karakteri hareket ettirdiğinizde deaktif olur bıraktığınızda atağa devam eder.
+4.İce LR bölümüde yenilendi modifiye edilebilir Fonskiyon örnek f3 ve atanan tuş ile basılı tutunca 9lu ok atmaya başlar.
+5.Okcu COMBO aktifken 9LU OKA basılı tuttuğunuzda 9LU OKA geçer tuşu bıraktığınızda Okcu COMBOya devam eder.
