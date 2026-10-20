@@ -1,2 +1,5 @@
-1.AI MOD bölümünde Fonksiyon geçişlerinde cut açıkken f2 yapma sorunu giderildi
-2.Performans kod iyileştirmeleri yapıldı ayrıca gereksiz görsel yüklemeler kaldırıldı.
+1.FATAL 80 MOD eklendi ayarlanabilir tuşa basılı tutulduğunda eskrima 80 + 75 atar + eskrima farklı serverlar için ms butonları eklendi ideal ms 200.
+2.OKMU COMBO MOD aktif edildiğinde Z kutusu işaretliyse hareket halindeyken de oto Z yapacaktır.
+3.OKCU bölümündeki knife moduna mana çekme entegre edildi okçuyken ayarlandığında mana çeker asasken bıçak atar.
+4.F11 kısayolu değiştirelebilir olarak start butonunun yanına eklendi istediğiniz tuşa atayabilirsiniz.
+
