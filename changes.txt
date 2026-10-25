@@ -1,1 +1,1 @@
-1.Güvelik güncellemeleri yapıldı.
+1.AI MOD Foksinyon tuşları açıkken f3 - f8 manuel basışlarda oto f1 f2 yapma sorunu giderildi.
