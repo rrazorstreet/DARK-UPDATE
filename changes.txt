@@ -1,1 +1,4 @@
-1.AI MOD Foksinyon tuşları açıkken f3 - f8 manuel basışlarda oto f1 f2 yapma sorunu giderildi.
+1.Donanım seçimi ilk açılışta otomatik yapıldı manuel eklemek isterseniz donanım kısmından ekleyebilirsiniz.
+2.Arayüz güncellemeleri yapıldı.
+3.Ek güvenlik önlemleri alındı Combo mod ve AI mod ince ayar yapıldı.
+
