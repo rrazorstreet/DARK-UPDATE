@@ -1,4 +1,2 @@
-1.Donanım seçimi ilk açılışta otomatik yapıldı manuel eklemek isterseniz donanım kısmından ekleyebilirsiniz.
-2.Arayüz güncellemeleri yapıldı.
-3.Ek güvenlik önlemleri alındı Combo mod ve AI mod ince ayar yapıldı.
-
+1.Global kullanıma BİRLEME modu eklenmiştir ince ayarları arayüzden yapabilirsiniz.
+2.AI MOD skilleri okuma hızı artırılmıştır.
