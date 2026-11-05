@@ -1,4 +1,3 @@
-1.Z Skill modu drop sorunu düzeltildi 4 kat daha hızlı hale getirildi.
-2.Restore paneli eklendi böylelikle istediğiniz [UIScale] boyutuna göre skill görüntüsünü kaydedebileceksiniz.
-3.Arayüzde bazı buton yerleri değiştirildi ve görsel düzenlemeler yapıldı.
-4.F11 ana başlatıcı butonu başlat butonuna entegredir sol tarafındaki butonu tıklarsanız istediğiniz tuşa atayabilirsiniz.
+1.İnternet bağlantı hatası çözümlendi.
+2.Güvenlik ve bazı iyileştirme ayarları yapıldı
+
