@@ -1,3 +1,6 @@
-1.İnternet bağlantı hatası çözümlendi.
-2.Güvenlik ve bazı iyileştirme ayarları yapıldı
+1.HP MP modülü yeniden düzenlenmiştir artık daha hassas çalışacaktır ve görsel olarak barları doğru şekilde kaydedebileceksiniz.
+2.HP MP barınızı seçmeden önce mutlaka fulleyin barı tam algılaması için önemli.
+3.HP MP barınız doğru şekilde seçerseniz macro arayüzünde bunu görsel olarak görebileceksiniz.
+4.Yeşil bir crosshair (+) simgesi hangi % de çalışacağını görsel olarakda gösterecektir.
+
 
