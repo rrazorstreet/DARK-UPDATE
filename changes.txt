@@ -1,6 +1,7 @@
-1.HP MP modülü yeniden düzenlenmiştir artık daha hassas çalışacaktır ve görsel olarak barları doğru şekilde kaydedebileceksiniz.
-2.HP MP barınızı seçmeden önce mutlaka fulleyin barı tam algılaması için önemli.
-3.HP MP barınız doğru şekilde seçerseniz macro arayüzünde bunu görsel olarak görebileceksiniz.
-4.Yeşil bir crosshair (+) simgesi hangi % de çalışacağını görsel olarakda gösterecektir.
+1.MİNOR MODA Manuel minör eklendi ikisinide aynı anda kullanabilirsiniz.
+2.MANUEL MOD oto moda göre bağımsız olduğu için çok hızlı çalışır ms değerlerini ortalama düzeye ayarlayın.
+3.OTO MİNÖR kullanırken MANUEL MODUDA takım arkadaşınızı minörle destekleyebilirsiniz.
+4.MANUEL MODU ister aç kapa isterde VARSAYILAN BASILI olarak kullanabilirsiniz.
+
 
 
