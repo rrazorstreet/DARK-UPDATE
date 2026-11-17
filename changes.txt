@@ -1,7 +1,9 @@
-1.MİNOR MODA Manuel minör eklendi ikisinide aynı anda kullanabilirsiniz.
-2.MANUEL MOD oto moda göre bağımsız olduğu için çok hızlı çalışır ms değerlerini ortalama düzeye ayarlayın.
-3.OTO MİNÖR kullanırken MANUEL MODUDA takım arkadaşınızı minörle destekleyebilirsiniz.
-4.MANUEL MODU ister aç kapa isterde VARSAYILAN BASILI olarak kullanabilirsiniz.
+1.ASAS AI MOD oto durat eklendi skill bastığın an durat aktifse otomatik atar.
+2.Durat restor skil panele direk kapatma tuşu eklendi.
+3.AI MOD modülü komple değiştirildi.
+4.Windows klavyeyi ID değiştirince klavye algınlandı yeniden başlatma hatası giderildi.
+
+
 
 
 
