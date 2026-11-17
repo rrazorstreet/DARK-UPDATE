@@ -2,6 +2,7 @@
 2.Durat restor skil panele direk kapatma tuşu eklendi.
 3.AI MOD modülü komple değiştirildi.
 4.Windows klavyeyi ID değiştirince klavye algınlandı yeniden başlatma hatası giderildi.
+5.Okcu combo modunda ice lr bugu giderildi optimize hız ayarı yapıldı.
 
 
 
