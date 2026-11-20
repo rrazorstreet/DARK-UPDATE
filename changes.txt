@@ -1,14 +1,7 @@
-1.HP modülü zehir sorunu giderildi.
-2.OTO MİNÖR geliştirildi daha akıcı hale getirildi.
-3.AI MOD CP basarken oto F2 yada f1 geçme sorunu düzeltildi.
-4.AI MOD OTO CP Durat eklendi dileneyen oto yada manuel kullanabilir.
-5.AI MOD OTO CP duratı eskrimadan sonra yapacak şekilde ayarlandı.
-6.OKCU COMBO fonksiyon tuşu eklendi ve komple yenilendi.
-7.FATAL VE 9LU modlardan basılı özelliği kaldırıldı.
-8.COMBO mod aktifken FATAL yada 9lu modun tetik tuşana basarsanız direk onlara geçer.
-9.FATAL yada 9LU modlar arasında COMBO geçiş yaparsanız devam eder COMBO tekrar basarsanız durur.
-10.COMBO MOD dan tüm sesler kaldırıldı.
-11.HP MP croshair göstergesi tam merkeze alındı.
+1.SKİLL DİZ özelliği eklenmiştir.
+2.Tüm jobların skillerini otmatik dizebilirsiniz.
+3.Optimize ayarlar yapıldı ve gereksiz modüller kaldırıldı.
+
 
 
 
