@@ -1,6 +1,6 @@
-1.Mana sıfırlanınca pot basmama sorunu giderildi.
-2.Combo mod açıkken farklı fonksiyon tuşalarını seçince kapanmama sorunu giderildi.
-3.Combo basılıda tuşa basılıyken fatal yada 9lu dan dönüşte devam etmeme sorunu giderildi.
+1.SOUND butonu eklenmiştir kayıt ve bazı özel tuş seslerinden rahatsız olanlar kapatabilir.
+2.Windows ses sürücüleri olmayan modifiye windowslarda ses hatası giderildi.
+
 
 
 
