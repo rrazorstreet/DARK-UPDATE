@@ -1,5 +1,5 @@
-1.SOUND butonu eklenmiştir kayıt ve bazı özel tuş seslerinden rahatsız olanlar kapatabilir.
-2.Windows ses sürücüleri olmayan modifiye windowslarda ses hatası giderildi.
+1.SKILL DİZ stabil hale getirilmiştir.
+
 
 
 
