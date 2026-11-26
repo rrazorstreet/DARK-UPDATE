@@ -2,6 +2,7 @@
 2.Ses aç kapa butonu görsel olarak düzenlenmiştir.
 3.Driver butonu artık Manuel Donanım seçme ekranına yönlendirir görsel olarakda düzenlendi.
 4.Artık kullandığınız klavye ve mouseyi otomatik algılar ve kaldığı yerden devam eder.
+5.Varsayılan sayfa Global ekran olarak açılır.
 
 
 
