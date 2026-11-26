@@ -1,4 +1,8 @@
-1.SKILL DİZ stabil hale getirilmiştir.
+1.Giriş ekranı cpu ram ve kullanım dakika bilgileri kaldırılmıştır.
+2.Ses aç kapa butonu görsel olarak düzenlenmiştir.
+3.Driver butonu artık Manuel Donanım seçme ekranına yönlendirir görsel olarakda düzenlendi.
+4.Artık kullandığınız klavye ve mouseyi otomatik algılar ve kaldığı yerden devam eder.
+
 
 
 
