@@ -1,8 +1,6 @@
-1.Giriş ekranı cpu ram ve kullanım dakika bilgileri kaldırılmıştır.
-2.Ses aç kapa butonu görsel olarak düzenlenmiştir.
-3.Driver butonu artık Manuel Donanım seçme ekranına yönlendirir görsel olarakda düzenlendi.
-4.Artık kullandığınız klavye ve mouseyi otomatik algılar ve kaldığı yerden devam eder.
-5.Varsayılan sayfa Global ekran olarak açılır.
+1.COMBO FATAL yada 9lu AKTİFKEN M20 yada Mana çekme attıktan sorna durma sorunu güzeltildi.
+2.Durat bölümüne LF lupin okcu-asas defans skilleri ve  MAGE resistansları eklendi.
+
 
 
 
